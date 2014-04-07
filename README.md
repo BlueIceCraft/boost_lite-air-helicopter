@@ -1,4 +1,8 @@
-boost_lite
+boost_lite-air-helicopter
 ==========
+I DID NOT WRITE THIS SCRIPT, I JUST REWROTE IT TO MAKE IT USABLE WITH HELICOPTERS.
+ALL THE HARD WORK GOES TO THE JC-MP DEVELOPER TEAM, I JUST CHANGED SOME NUMBERS.
 
-JC2-MP Lite boost script
+start boosting by pressing Q
+
+JC2-MP helicopter boost script
